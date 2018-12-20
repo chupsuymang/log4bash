@@ -12,7 +12,7 @@ born out of frustration, having no uniform logging mechanism across bash scripts
     #!/usr/bin/bash
     source log4bash.sh
 
-    log "Welcome to log4bash, log and log_info do the same thing";
+    log "Welcome to log4bash, log and [log "info"] do the same thing";
 
     log "info"  "Welcome to log4bash, did you know the average person falls asleep in 7 minutes";
     
