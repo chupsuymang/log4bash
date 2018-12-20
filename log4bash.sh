@@ -9,19 +9,19 @@
 # Version:		2.0
 #
 # Fork of:		http://github.com/fredpalmer/log4bash
-# 				Copyright (c) 2009-2011, Fred Palmer and contributors.
+# 			Copyright (c) 2009-2011, Fred Palmer and contributors.
 #				
 # Purpose:		- Logging for bash scripts inclusive log rotation
 #
 # Notes:		- Usage:
-#					log "info" "MESSAGE"
-#					log "error" "MESSAGE"
-#					log "warn" "MESSAGE"
-#					log "success" "MESSAGE"
-#					log "debug" "MESSAGE"
+#				log "info" "MESSAGE"
+#				log "error" "MESSAGE"
+#				log "warn" "MESSAGE"
+#				log "success" "MESSAGE"
+#				log "debug" "MESSAGE"
 #
 # Changes:		- 12/19/2018
-#                   - Script creation
+#                  		- Script creation
 #
 # License:		Licensed under the MIT license
 # 
@@ -102,6 +102,4 @@ log (){
     
     return 0;
 }
-
-
-# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+# = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
