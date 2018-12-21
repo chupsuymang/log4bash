@@ -1,7 +1,6 @@
 # log4bash
 
-born out of frustration, having no uniform logging mechanism across bash scripts and inspired by **log4bash** from Fred Palmer
-
+born out of frustration, having no uniform logging mechanism across bash scripts and inspired by the original **log4bash** 
 
 ## Using this fork of log4bash
 
